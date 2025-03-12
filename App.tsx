@@ -24,7 +24,7 @@ function App(): React.JSX.Element {
   return (
     <SafeAreaView style={{ flex: 1 }}>
       <ScrollView>
-          <LoginDetails></LoginDetails>     {/*Login Users Details Page*/}
+          <LoginDetails></LoginDetails>     
       </ScrollView>
     </SafeAreaView>
   );
